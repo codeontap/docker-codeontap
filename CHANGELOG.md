@@ -1,6 +1,25 @@
 # Changelog
 
-## Unreleased (2021-07-09)
+## Unreleased (2021-07-21)
+
+#### Fixes
+
+* match npm version to node version
+#### Refactorings
+
+* Ignore dockerhub login for PRs
+
+Full set of changes: [`8.2.4...861148e`](https://github.com/hamlet-io/docker-hamlet/compare/8.2.4...861148e)
+
+## 8.2.4 (2021-07-16)
+
+#### Others
+
+* changelog bump ([#64](https://github.com/hamlet-io/docker-hamlet/issues/64))
+
+Full set of changes: [`8.2.3...8.2.4`](https://github.com/hamlet-io/docker-hamlet/compare/8.2.3...8.2.4)
+
+## 8.2.3 (2021-07-09)
 
 #### New Features
 
@@ -15,7 +34,7 @@
 
 * changelog bump ([#59](https://github.com/hamlet-io/docker-hamlet/issues/59))
 
-Full set of changes: [`8.2.2...dd66c98`](https://github.com/hamlet-io/docker-hamlet/compare/8.2.2...dd66c98)
+Full set of changes: [`8.2.2...8.2.3`](https://github.com/hamlet-io/docker-hamlet/compare/8.2.2...8.2.3)
 
 ## 8.2.2 (2021-07-09)
 
